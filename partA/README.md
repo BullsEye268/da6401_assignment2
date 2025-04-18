@@ -1,6 +1,6 @@
 # CNN Implementation for iNaturalist Classification
 
-**Author**:
+**Author**: Achyutha Munimakula PH21B004
 
 **WandB Report Link**:
 
@@ -72,8 +72,6 @@ The sweep was configured to maximize validation accuracy across multiple runs, w
 
 - `utils.py`: Contains the model architecture and data module implementations
 - `trials.ipynb`: Jupyter notebook for experimentation, training, and hyperparameter sweeps
-- `data/`: Directory containing the iNaturalist dataset
-- `wandb/`: Directory containing Weights & Biases logs
 - `inaturalist-cnn/`, `cnn-pytorch-lightning/`: Directories for different experiment runs
 
 ## Results
