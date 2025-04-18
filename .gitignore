@@ -13,6 +13,7 @@ data/
 partA/cnn-pytorch-lightning
 partA/mnist-cnn-lightning
 */wandb
+*/checkpoints
 develop-eggs/
 dist/
 downloads/
