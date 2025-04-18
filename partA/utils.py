@@ -8,6 +8,7 @@ import pytorch_lightning as pl
 import os
 from typing import List, Tuple, Callable, Union, Type
 from IPython.display import clear_output
+import wandb
 
 class FlexibleCNN(pl.LightningModule):
     def __init__(
@@ -297,7 +298,6 @@ class iNaturalistDataModule(pl.LightningDataModule):
         )
     
     def test_dataloader(self):
-        print('uhuh')
         return DataLoader(
             self.test_dataset,
             batch_size=self.batch_size,
