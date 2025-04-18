@@ -2,7 +2,7 @@
 
 **Author**: Achyutha Munimakula PH21B004
 
-**WandB Report Link**:
+[WandB Report Link](https://wandb.ai/bullseye2608-indian-institute-of-technology-madras/inaturalist-cnn/reports/DA6401-Assignment-2-Submission--VmlldzoxMjM2MDc4MQ)
 
 ## Overview
 
